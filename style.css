@@ -1,0 +1,227 @@
+body {
+  background-color: rgba(242, 242, 242, 0.69);
+  font-family: "Montserrat", sans-serif;
+}
+
+i {
+  padding-right: 1em;
+}
+
+a {
+  color: rgb(47, 119, 252);
+}
+
+.btn-default {
+  display: block;
+  width: 25.25em;
+  background-color: rgb(47, 119, 252);
+  color: white;
+  border-radius: 10%;
+  padding: 1em;
+  margin-top: 2em;
+}
+
+/* RETURNING USER SIGN IN */
+.sign-in {
+  float: right;
+  font-size: 0.8em;
+  margin-right: 1em;
+}
+
+.sign-in-button {
+  padding: 0.5em;
+  width: 8em;
+  margin-top: 0.5em;
+  float: right;
+  width: 40%;
+  height: 3em;
+}
+
+.sign-in-text {
+  height: 3em;
+  width: 60%;
+  float: left;
+}
+
+.sign-in p {
+  display: inline-block;
+  margin-bottom: 0;
+}
+
+.sign-in a {
+  display: block;
+}
+
+/* TITLE */
+
+.logo-title-img {
+  background-color: white;
+  padding: 0.75em;
+  border: 1px solid #cc9543;
+  border-radius: 10%;
+}
+
+.title {
+  padding-top: 4em;
+  text-align: center;
+}
+
+.title li {
+  display: inline-block;
+  padding: 0 8px 0 20px;
+  background-size: 16px;
+}
+
+.js-link {
+  margin-left: -2em;
+  background: url("assets/js-logo.png") no-repeat;
+}
+
+.html-link {
+  background: url("assets/html-logo.png") no-repeat;
+}
+
+.css-link {
+  background: url("assets/css-logo.png") no-repeat;
+}
+
+.node-link {
+  background: url("assets/node-logo.png") no-repeat;
+}
+
+.ruby-link {
+  background: url("assets/ruby-logo.png") no-repeat;
+}
+
+/* SIGN UP CONTENT BEFORE ACTUAL FORM */
+
+.sign-up-form-fieldset {
+  background-color: white;
+  width: 24em;
+}
+
+.sign-up-form-fieldset input {
+  width: 24em;
+}
+
+.preamble {
+  width: 20em;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.preamble h2 {
+  color: rgba(0, 0, 0, 0.808);
+}
+
+.preamble p {
+  color: rgba(0, 0, 0, 0.774);
+  margin-bottom: 0;
+}
+
+/* SIGN-UP FORM */
+.sign-up-form-fieldset label {
+  display: block;
+  margin-top: 2em;
+}
+
+.sign-up-form-fieldset {
+  text-align: left;
+  margin: 0 auto;
+  padding: 0 0 0 0;
+}
+
+.sign-up-form-fieldset form {
+  width: 20em;
+  margin-left: 2em;
+}
+
+.sign-up-form-fieldset small {
+  display: block;
+  width: 24em;
+  text-align: center;
+  margin-left: 2em;
+  padding: 3em;
+  color: rgba(0, 0, 0, 0.774);
+}
+
+.create-account-button i {
+  padding-right: 1em;
+}
+
+/* RECAPTCHA */
+.recaptcha {
+  background-color: #f2f0f0;
+  margin: 0 auto;
+}
+
+.recaptcha small {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 0.75em;
+  margin-left: 4em;
+}
+
+/* FOOTER */
+
+footer {
+  text-align: center;
+  padding-bottom: 1em;
+}
+
+footer li {
+  display: inline-block;
+  padding: 0 8px 0 20px;
+}
+
+footer li {
+  font-size: 0.8em;
+}
+
+footer ul {
+  margin-bottom: 0.1em;
+}
+
+footer small {
+  display: block;
+  width: 70em;
+  margin: 0 auto;
+}
+
+/* MOBILE MEDIA QUERIES  */
+@media only screen and (max-width: 600px) {
+  footer small {
+    width: 30em;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .btn-default {
+    width: 19em;
+  }
+
+  .sign-in {
+    margin-bottom: 3em;
+  }
+
+  .sign-in-button {
+    padding: 0.5em;
+    width: 8em;
+    margin-top: 0.5em;
+    float: right;
+    width: 40%;
+    height: 3em;
+  }
+
+  .sign-up-form-fieldset input {
+    width: 18em;
+  }
+
+  .sign-up-form-fieldset small {
+    width: 18em;
+  }
+
+  footer small {
+    width: 30em;
+  }
+}
