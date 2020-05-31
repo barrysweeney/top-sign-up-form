@@ -18,3 +18,5 @@ It is licensed under a [Creative Commons Attribution 3.0 License](https://creati
 
 [JavaScript Logo](https://commons.wikimedia.org/wiki/File:JavaScript-logo.png)  
 <a href="https://commons.wikimedia.org/wiki/File:JavaScript-logo.png" title="via Wikimedia Commons">Ramaksoud2000 via Chris Williams</a> / Public domain
+
+[The Odin Project Logo & Title](https://www.theodinproject.com)
