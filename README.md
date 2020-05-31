@@ -13,3 +13,8 @@ It is licensed under the terms of the [Creative Commons Attribution-ShareAlike 2
 [HTML & CSS Logos](https://www.w3.org/html/logo/)  
 It is licensed under a [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0/)
 
+[Node Logo](https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_node-js.svg)  
+<a href="https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_node-js.svg" title="via Wikimedia Commons">Font Awesome Free 5.4.1 by @fontawesome - https://fontawesome.com</a> / <a href="https://creativecommons.org/licenses/by/4.0">CC BY</a>
+
+[JavaScript Logo](https://commons.wikimedia.org/wiki/File:JavaScript-logo.png)  
+<a href="https://commons.wikimedia.org/wiki/File:JavaScript-logo.png" title="via Wikimedia Commons">Ramaksoud2000 via Chris Williams</a> / Public domain
